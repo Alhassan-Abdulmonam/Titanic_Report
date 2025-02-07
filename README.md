@@ -33,7 +33,7 @@ This Power BI report provides **data visualization and insights** into the **Tit
 - `images/` – Screenshots of dashboards  
 
 ## 🔗 Dataset Source  
-[🚢 Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)  
+[🚢 Kaggle Titanic Dataset](https://github.com/Alhassan-Abdulmonam/Titanic_Report/blob/main/titanic.csv)  
 
 ## 🛠 Technologies Used  
 - **Power BI** for data visualization  
