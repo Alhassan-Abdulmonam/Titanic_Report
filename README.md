@@ -46,4 +46,5 @@ The dataset used in this report is the Titanic dataset from Kaggle or public sou
 
 ## License
 This project is open-source and available for use and modification.
+![Titanic Report](image.png)
 
